@@ -1,1 +1,4 @@
 # Sentiment-Analysis-of-Twitter-Data-for-Assembly-election-2022
+
+
+Sentiment analysis is an evaluation of the opinion of the speaker, writer or other subject with regard to some topic. In Uttar Pradesh election 2022 Akhilesh Yadav and Yogi Adityanath are main two candidates. Former related to Samajwadi Party and latter related to Bhartiya Janta Party(currently ruling party). The opinion of the public expressed for a candidate will impact the potential chief minister of the Uttar Pradesh. Twitter is used to acquire a large diverse data set representing the current public opinions of the candidates. This paper addresses a methodology to predict the outcome of the 2022 Uttar Pradesh elections using the sentiment analysis of twitter data. Tweets in Hindi language and English language are gathered separately. Lexical based methods are used for analysis and Hindi-senti-wordnet and machine translation used for Hindi tweets.
